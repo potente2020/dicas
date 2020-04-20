@@ -1,4 +1,12 @@
-</head><body>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="animate.css" rel="stylesheet" type="text/css">
+    <link href="ppv.css" rel="stylesheet" type="text/css">
+  </head><body>
     <div class="cover fundo">
       <div class="cover-image"></div>
       <div class="container">
@@ -17,13 +25,13 @@
       </div>
     </div>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-146280435-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-146435-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
     
-      gtag('config', 'UA-146435-1');
+      gtag('config', 'UA-146280435-1');
     </script>
     <script>
       $(document).ready(function(){
@@ -42,3 +50,5 @@
       		});
     </script>
   
+
+</body></html>
